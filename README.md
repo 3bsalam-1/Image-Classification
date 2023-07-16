@@ -7,4 +7,4 @@ Ai model that detects if you are sad or happy using image classification and com
 - OpenCV(for computer vision)
 - CustomTkinter (for Gui)
 - TensorFlow, Keras (for Ai model)
-- Competitive neural network
+- Competitive neural network 
